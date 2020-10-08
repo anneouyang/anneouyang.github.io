@@ -1,0 +1,19 @@
+---
+layout: default
+title: Archive
+---
+
+<h2 style="text-align: center; margin-bottom: 1.5em">Blog Archive ({{ site.posts | size }})</h2>
+
+{% for post in site.posts %}
+{% if post.categories contains "blog" %}
+<ul class="tags-posts" >
+	<a id="{{ tag | first }}" class="post-title" style="text-decoration: none;" href="{{ site.baseurl }}{{ post.url }}">
+	<li>
+	{{ post.title }} ({{ post.date | date_to_string }})
+	<!-- <small class="post-date">{{ post.date | date_to_string }}</small> -->
+	</li>
+	</a>
+</ul>
+{% endif %}
+{% endfor %}

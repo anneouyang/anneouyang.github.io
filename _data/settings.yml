@@ -1,0 +1,33 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu:
+- {name: 'About', path: '.', url: ''}
+- {name: 'Blog', path: '.', url: 'blog'}
+# - {name: 'Gallery', path: '.', url: 'gallery'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'envelope', link: 'mailto:anne.ouyang@gmail.com'}
+- {icon: 'github', link: 'https://www.github.com/anneouyang'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/anneouyang/'}
+- {icon: 'twitter', link: 'https://twitter.com/anneouyang'}
+- {icon: 'wechat', link: '/assets/img/wechat.jpg'}
+# - {icon: 'facebook', link: 'https://www.facebook.com/ouyanganne'}
+# - {icon: 'rss-square', link: '/feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Link Sharing'
+
+related_posts: 'You may also enjoy:'
+
+post_date_prefix: 'Written on'

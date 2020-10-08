@@ -1,0 +1,13 @@
+<div class="menu">
+  <!-- <nav class="social-icons">
+    {% include social-icons.html %}
+  </nav> -->
+  <nav class="menu-title">
+  	<a href="{{ site.github.url }}/">{{ site.title }}</a>
+  </nav>
+  <nav class="menu-content">
+    {% for item in site.data.settings.menu %}
+      <a href="{{ site.github.url }}/{{ item.path }}/{{ item.url }}"> {{ item.name }} </a>
+    {% endfor %}
+  </nav>
+</div>

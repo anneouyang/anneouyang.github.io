@@ -1,0 +1,31 @@
+---
+layout: default
+title: Tags
+---
+
+<!-- <div><p style="text-align: center"><a href="" style="text-decoration: none"> Display All Posts by Tags </a></p></div> -->
+
+<div class="tags">
+    <h2 style="text-align: center;"> Posts by Tags <a href="{{ site.github.url }}/archive"> [View Archive] </a></h2>
+    {% assign sorted_tags = (site.tags | sort:0) %}
+    <span class="post-date" style="text-align: center; background-color: #ffffff">
+      {% for tag in sorted_tags %}
+        <a href="#{{tag[0] | slugify}}" style="font-size: 16px">#{{ tag | first }} &nbsp;</a>
+      {% endfor %}
+    </span>
+    <hr>
+    {% for tag in sorted_tags %}
+    <h3 id="{{ tag[0] | slugify }}">#{{ tag | first }} ({{(tag[1] | size)}})</h3>
+    <ul class="tags-posts">
+      {% for post in tag[1] %}
+        <a id="{{ tag | first }}" class="post-title" style="text-decoration: none;" href="{{ site.baseurl }}{{ post.url }}">
+      <li>
+        {{ post.title }} ({{ post.date | date_to_string }})
+      <!-- <small class="post-date">{{ post.date | date_to_string }}</small> -->
+      </li>
+      </a>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  </div>
+
