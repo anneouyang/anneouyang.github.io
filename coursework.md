@@ -29,6 +29,11 @@ title: Coursework
 - **14.02** - Principles of Macroeconomics
 - **6.A01** - Mens et Manus: The Joy of MIT
 
+## Other Credits
 
+- **18.02** - Multivariable calculus
+- **18.03** - Differential Equations
+- **8.01** - Introduction to Computer Science and Programming in Python
+- **6.001** - Physics I: Classical Mechanics
 
 (\*) = graduate level
