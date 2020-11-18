@@ -31,8 +31,9 @@ title: Coursework
 
 ## Other Credits
 
-- **18.02** - Multivariable calculus
 - **18.03** - Differential Equations
+- **18.02** - Multivariable Calculus
+- **18.01** - Single Variable Calculus
 - **8.01** - Introduction to Computer Science and Programming in Python
 - **6.001** - Physics I: Classical Mechanics
 
