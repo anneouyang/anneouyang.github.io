@@ -5,6 +5,10 @@ title: Coursework
 
 <h1 style="text-align: center;"> MIT Coursework </h1>
 
+(\*) = graduate level
+
+underline = current
+
 ## Computer Science
 - **6.172** - Performance Engineering of Software Systems
 - **6.s081** - Operating System Engineering
@@ -36,8 +40,4 @@ title: Coursework
 - **7.012** - Introductory Biology
 - **8.02** - Physics II: Electricity and Magnetism
 - **8.01** - Physics I: Classical Mechanics
-
-(\*) = graduate level
-
-underline = current
 
