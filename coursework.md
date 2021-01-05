@@ -5,36 +5,37 @@ title: Coursework
 
 <h1 style="text-align: center;"> MIT Coursework </h1>
 
-## Fall 2020
-- **6.009** - Fundamentals of Programming
-- **6.02** - Introduction to EECS via Communication Networks
+## Computer Science
 - **6.172** - Performance Engineering of Software Systems
 - **6.s081** - Operating System Engineering
-- **7.012** - Introductory Biology
-- **18.06** - Linear Algebra
-- **18.600** - Probability and Random Variables
-- **21M.011** - Introduction to Western Music
-
-## Spring 2020
-- **6.033** - Computer Systems Engineering
+- **6.02** - Introduction to EECS via Communication Networks
+- **6.009** - Fundamentals of Programming
 - **6.036** - Machine Learning
 - **6.046** - Design and Analysis of Algorithms (Algorithms II)
 - ***6.857** - Network and Computer Security (Applied Cryptography)
-- **17.41** - Introduction to International Relations
-
-## Fall 2019
+- **6.033** - Computer Systems Engineering
 - **6.004** - Computation Structures
 - **6.042** - Mathematics for Computer Science
-- **8.02** - Physics II: Electricity and Magnetism
-- **14.02** - Principles of Macroeconomics
 - **6.A01** - Mens et Manus: The Joy of MIT
+- **6.001** - Introduction to Computer Science and Programming in Python
 
-## Other Credits
-
+## Math
+- **18.06** - Linear Algebra
+- **18.600** - Probability and Random Variables
 - **18.03** - Differential Equations
 - **18.02** - Multivariable Calculus
 - **18.01** - Single Variable Calculus
-- **8.01** - Introduction to Computer Science and Programming in Python
-- **6.001** - Physics I: Classical Mechanics
+
+## Humanities, Arts, and Social Studies
+- <u>**21G.401** - German I</u>
+- **21M.011** - Introduction to Western Music
+- **17.41** - Introduction to International Relations
+- **14.02** - Principles of Macroeconomics
+
+## Sciences
+- **7.012** - Introductory Biology
+- **8.02** - Physics II: Electricity and Magnetism
+- **8.01** - Physics I: Classical Mechanics
 
 (\*) = graduate level
+underline = current
