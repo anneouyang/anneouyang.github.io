@@ -20,8 +20,8 @@ title: Coursework
 - **6.001** - Introduction to Computer Science and Programming in Python
 
 ## Math
-- **18.06** - Linear Algebra
 - **18.600** - Probability and Random Variables
+- **18.06** - Linear Algebra
 - **18.03** - Differential Equations
 - **18.02** - Multivariable Calculus
 - **18.01** - Single Variable Calculus
@@ -38,4 +38,6 @@ title: Coursework
 - **8.01** - Physics I: Classical Mechanics
 
 (\*) = graduate level
+
 underline = current
+
