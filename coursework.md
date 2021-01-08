@@ -5,13 +5,13 @@ title: Coursework
 
 <h1 style="text-align: center;"> MIT Coursework </h1>
 
-(\*) = graduate level
+\* = graduate level
 
-underline = current
+\~ = current
 
 ## Computer Science
 - **6.172** - Performance Engineering of Software Systems
-- **6.s081** - Operating System Engineering
+- **6S081** - Operating System Engineering
 - **6.02** - Introduction to EECS via Communication Networks
 - **6.009** - Fundamentals of Programming
 - **6.036** - Machine Learning
@@ -31,7 +31,7 @@ underline = current
 - **18.01** - Single Variable Calculus
 
 ## Humanities, Arts, and Social Studies
-- **21G.401** - <u>German I</u>
+- **\~21G.401** - German I
 - **21M.011** - Introduction to Western Music
 - **17.41** - Introduction to International Relations
 - **14.02** - Principles of Macroeconomics
