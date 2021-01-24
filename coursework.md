@@ -11,7 +11,7 @@ title: Coursework
 
 ## Computer Science
 - **6.172** - Performance Engineering of Software Systems
-- **6S081** - Operating System Engineering
+- **6.S081** - Operating System Engineering
 - **6.02** - Introduction to EECS via Communication Networks
 - **6.009** - Fundamentals of Programming
 - **6.036** - Machine Learning
