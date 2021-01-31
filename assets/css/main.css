@@ -68,6 +68,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #252525 !important;
 }
 
+a .orgs {
+  font-style: italic;
+  color: #252525;
+}
+
 a {
   text-decoration: none;
   color: #608d96;
@@ -77,11 +82,6 @@ a:hover {
   color: #596a74;
   border-bottom: none;
   text-decoration: none;
-}
-
-a.orgs {
-  font-style: italic;
-  color: #252525;
 }
 
 img {
