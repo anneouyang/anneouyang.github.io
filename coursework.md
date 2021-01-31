@@ -31,7 +31,7 @@ title: Coursework
 - **18.01** - Single Variable Calculus
 
 ## Humanities, Arts, and Social Studies
-- **\~21G.401** - German I
+- **21G.401** - German I
 - **21M.011** - Introduction to Western Music
 - **17.41** - Introduction to International Relations
 - **14.02** - Principles of Macroeconomics
