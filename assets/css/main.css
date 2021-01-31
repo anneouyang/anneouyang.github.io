@@ -79,6 +79,11 @@ a:hover {
   text-decoration: none;
 }
 
+a.orgs {
+  font-style: italic;
+  color: #252525;
+}
+
 img {
   max-width: 100%;
   height: auto;
