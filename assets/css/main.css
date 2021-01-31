@@ -68,9 +68,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #252525 !important;
 }
 
-a .orgs {
+a.orgs {
+  color: #606060;
   font-style: italic;
-  color: #252525;
 }
 
 a {
