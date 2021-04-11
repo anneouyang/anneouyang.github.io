@@ -15,14 +15,14 @@ title: Coursework
 - **\~\*6.824** - Distributed Computer Systems Engineering
 - **6.172** - Performance Engineering of Software Systems 
 - **6.S081** - Operating System Engineering
-- ***6.857** - Network and Computer Security
+- **\*6.857** - Network and Computer Security
 - **6.036** - Machine Learning
 - **6.046** - Design and Analysis of Algorithms
 - **6.033** - Computer Systems Engineering
 - **6.02** - Introduction to EECS via Communication Networks
 - **6.004** - Computation Structures
 - **6.009** - Fundamentals of Programming
-- **6.006** - Introduction to Algorithms
+- **\~6.006** - Introduction to Algorithms
 - **6.042** - Mathematics for Computer Science
 - **6.A01** - Mens et Manus: The Joy of MIT
 - **6.001** - Introduction to Computer Science and Programming in Python
@@ -35,9 +35,9 @@ title: Coursework
 - **18.01** - Single Variable Calculus
 
 ## Humanities, Arts, and Social Studies
-- **~4.605** - Global History of Architecture
-- **~4.602** - Modern Art and Mass Culture
-- **~4.341** - Introduction to Photography
+- **\~4.605** - Global History of Architecture
+- **\~4.602** - Modern Art and Mass Culture
+- **\~4.341** - Introduction to Photography
 - **21G.401** - German I
 - **21M.011** - Introduction to Western Music
 - **17.41** - Introduction to International Relations
