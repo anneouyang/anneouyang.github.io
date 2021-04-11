@@ -10,9 +10,9 @@ title: Coursework
 \~ = current
 
 ## Computer Science
-- **~*6.825** Hardware Architecture for Deep Learning
-- **~*6.869** - Advances in Computer Vision
-- **~*6.824** - Distributed Computer Systems Engineering
+- **\~\*6.825** Hardware Architecture for Deep Learning
+- **\~\*6.869** - Advances in Computer Vision
+- **\~\*6.824** - Distributed Computer Systems Engineering
 - **6.172** - Performance Engineering of Software Systems 
 - **6.S081** - Operating System Engineering
 - ***6.857** - Network and Computer Security
