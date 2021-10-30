@@ -270,7 +270,7 @@ hr {
   margin: 1rem;
 }
 
-/*.footer a {
+.footer a {
   color: #252525;
   padding: 10px;
   text-decoration: none;
@@ -278,7 +278,20 @@ hr {
 
 .footer a:hover {
   color: #333;
-}*/
+}
+
+.footer a.footertextlink {
+  text-decoration: none;
+  color: #608d96;
+}
+
+.footer a.footertextlink:hover {
+  color: #596a74;
+  padding: 0px;
+  border-bottom: none;
+  text-decoration: none;
+}
+
 
 /*
   Menu
