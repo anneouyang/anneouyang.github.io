@@ -9,7 +9,7 @@ title: Coursework
 
 \~ = current
 
-## Computer Science
+## Computer Science and Math
 - **\*\~6.867** Machine Learning
 - **\~6.818** Dynamic Computer Language Engineering
 - **6.172** - Performance Engineering of Software Systems 
@@ -29,8 +29,6 @@ title: Coursework
 - **\~6.UAT** - Oral Communication
 - **6.A01** - Mens et Manus: The Joy of MIT
 - **6.001** - Introduction to Computer Science and Programming in Python
-
-## Math
 - **18.600** - Probability and Random Variables
 - **18.06** - Linear Algebra
 - **18.03** - Differential Equations
