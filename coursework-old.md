@@ -5,7 +5,38 @@ title: Coursework
 
 <h1 style="text-align: center;"> MIT Coursework </h1>
 
+## IAP 2022
+
+- **21G.611** - Russian I
+
+## Fall 2021
+
+- ***6.867** Machine Learning
+- **6.818** Dynamic Computer Language Engineering
+- **6.UAT** - Oral Communication
+- **4.603** - Understanding Modern Architecture
+- **3.091** - Introduction to Solid-State Chemistry
+
+## IAP 2021
+
+- **21G.401** - German I
+
+## Spring 2021
+
+- ***6.824** - Distributed Computer Systems Engineering
+- ***6.825** Hardware Architecture for Deep Learning
+- ***6.869** - Advances in Computer Vision
+- **4.605** - Global History of Architecture
+- **4.341** - Introduction to Photography
+- **4.602** - Modern Art and Mass Culture
+
+## IAP 2020
+
+- **18.02** - Multivariable Calculus
+- **18.03** - Differential Equations
+
 ## Fall 2020
+
 - **6.009** - Fundamentals of Programming
 - **6.02** - Introduction to EECS via Communication Networks
 - **6.172** - Performance Engineering of Software Systems
@@ -29,10 +60,8 @@ title: Coursework
 - **14.02** - Principles of Macroeconomics
 - **6.A01** - Mens et Manus: The Joy of MIT
 
-## Other Credits
+## High School / ASE Credits
 
-- **18.03** - Differential Equations
-- **18.02** - Multivariable Calculus
 - **18.01** - Single Variable Calculus
 - **8.01** - Introduction to Computer Science and Programming in Python
 - **6.001** - Physics I: Classical Mechanics
