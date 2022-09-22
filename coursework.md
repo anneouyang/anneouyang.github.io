@@ -10,19 +10,21 @@ title: Coursework
 \~ = current
 
 ## Computer Science and Math
-- **\*6.858** Computer Systems Security
-- **\*6.338** Parallel Computing and Scientific Machine Learning
-- **\*6.888** Secure Hardware Design
-- **\*6.867** Machine Learning
-- **6.818** Dynamic Computer Language Engineering
 - **6.172** - Performance Engineering of Software Systems 
   - Lab Assistant - Fall 2021
   - Course Assistant - Spring 2022
   - Teaching Assistant - Fall 2022
+- **\*6.867** Machine Learning
+- **\*6.338** Parallel Computing and Scientific Machine Learning
 - **\*6.824** - Distributed Computer Systems Engineering
-- **\*6.825** Hardware Architecture for Deep Learning
+- **6.818** Dynamic Computer Language Engineering
+- **\*6.823** Computer Architecture
+- **\*\~6.825** Hardware Architecture for Deep Learning
+- **\*\~6.S965** - TinyML and Efficient Deep Learning
+- **\*6.888** Secure Hardware Design
 - **\*6.869** - Advances in Computer Vision
 - **6.S081** - Operating System Engineering
+- **\*6.858** Computer Systems Security
 - **\*6.857** - Network and Computer Security
 - **6.036** - Machine Learning
 - **6.046** - Design and Analysis of Algorithms
@@ -46,6 +48,7 @@ title: Coursework
 - **4.603** - Understanding Modern Architecture
 - **4.605** - Global History of Architecture
 - **4.341** - Introduction to Photography
+- **\~21G.613** - Russian III
 - **21G.612** - Russian II
 - **21G.611** - Russian I
 - **21G.402** - German II
