@@ -1,0 +1,42 @@
+---
+layout: default
+title: Encrypted Blog
+---
+
+<!-- <div><p style="text-align: center"><a href="" style="text-decoration: none"> Display All Posts by Tags </a></p></div> -->
+
+<div style="text-align: center; margin-bottom: 3em; margin-top: -0.2em">
+<h3 style="width: 107%">
+  <a href="{{ site.github.url }}/tags"> Tags </a>
+  &nbsp; | &nbsp;
+  <a href="{{ site.github.url }}/archive"> Archive </a>
+</h3>
+</div>
+
+{% for post in site.posts %}
+{% if post.categories contains "encrypted" %}
+<div class="posts">
+    <h1>
+      <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+    </h1>
+    {% if post.image %}
+    <div class="thumbnail-container">
+      <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
+    </div>
+    {% endif %}
+    <p>
+      <span class="post-date">{{ post.date | date_to_string }} - 
+        {% for tag in post.tags %}
+          <a href="{{ site.github.url }}/tags#{{tag}}">#{{ tag }} </a>
+        {% endfor %}
+      </span>
+      {{ post.content | strip_html | truncate: 370 }}
+      <div style="margin-top: -0.2em"></div>
+      <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
+      <!-- <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span> -->
+    </p>
+</div>
+{% else %}
+{% endif %}
+{% endfor %}
+
