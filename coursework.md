@@ -47,6 +47,7 @@ title: Coursework
 - **4.603** - Understanding Modern Architecture
 - **4.605** - Global History of Architecture
 - **4.341** - Introduction to Photography
+- **CMS.636** - Extending the Museum
 - **21G.613** - Russian III
 - **21G.612** - Russian II
 - **21G.611** - Russian I
