@@ -19,3 +19,4 @@ title: Classical Music
 - Dmitri Shostakovich - Moscow Cheryomushki, Op.105 II. Waltz
 - Dmitri Shostakovich - Zlatiye Gori Suite, Op. 30a, II. Waltz: Andante
 - Pyotr Tchaikovsky - Symphony No. 6 I. Adagio
+- Giuseppe Verdi - La traviata "Libiamo ne' lieti calici", "Un dì, felice, eterea", 
