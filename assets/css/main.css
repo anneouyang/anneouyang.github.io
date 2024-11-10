@@ -17,13 +17,17 @@
   Base
 */
 
+:root {
+  --theme-color: #608d96;
+  /* --theme-color: #50aa7a; */
+}
 
 body {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 18px;
   color: #252525;
   line-height: 1.75rem;
-  background-color: #ffffff;
+  background-color: #FFFFFF;
 }
 
 .row {
@@ -60,7 +64,7 @@ h1 a {
 
 h1 a:hover {
   text-decoration: none;
-  color: #608d96;
+  color: var(--theme-color);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -75,7 +79,7 @@ a.orgs {
 
 a {
   text-decoration: none;
-  color: #608d96;
+  color: var(--theme-color);
 }
 
 a:hover {
@@ -120,7 +124,7 @@ hr {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 750px;
+  width: 900px;
 }
 
 /*48em*/
@@ -145,7 +149,7 @@ hr {
 }
 
 .masthead a:hover {
-  color:#608d96;
+  color:var(--theme-color);
 }
 
 .masthead-title a {
@@ -282,7 +286,7 @@ hr {
 
 .footer a.footertextlink {
   text-decoration: none;
-  color: #608d96;
+  color: var(--theme-color);
 }
 
 .footer a.footertextlink:hover {
@@ -309,7 +313,7 @@ hr {
 
 .menu-content a {
   color: #252525;
-  /*color: #608d96;*/
+  /*color: var(--theme-color);*/
   font-size: 1.2rem;
   padding-right: 10px;
   font-weight: bold;
@@ -341,7 +345,7 @@ hr {
     width: 100%;
   }
   .menu-content a{
-    color: #608d96;
+    color: var(--theme-color);
   }
   .social-icons {
     float: left;
@@ -462,7 +466,7 @@ th, td {
 }
 
 .fa-envelope:hover {
-	color: #608d96;
+	color: var(--theme-color);
 }
 
 .fa-twitter {

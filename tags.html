@@ -17,13 +17,14 @@ title: Tags
     {% for tag in sorted_tags %}
     <h3 id="{{ tag[0] | slugify }}">#{{ tag | first }} ({{(tag[1] | size)}})</h3>
     <ul class="tags-posts">
-      {% for post in tag[1] %}
-        <a id="{{ tag | first }}" class="post-title" style="text-decoration: none;" href="{{ site.baseurl }}{{ post.url }}">
-      <li>
-        {{ post.title }} ({{ post.date | date_to_string }})
-      <!-- <small class="post-date">{{ post.date | date_to_string }}</small> -->
-      </li>
+      {% for post in tag[1]%}
+      {% if post.categories contains "blog" %}
+      <a id="{{ tag | first }}" class="post-title" style="text-decoration: none;" href="{{ site.baseurl }}{{ post.url }}">
+        <li>
+          {{ post.title }} ({{ post.date | date_to_string }})
+        </li>
       </a>
+    {% endif %}
       {% endfor %}
     </ul>
     {% endfor %}

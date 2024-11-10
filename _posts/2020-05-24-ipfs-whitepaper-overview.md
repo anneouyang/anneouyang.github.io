@@ -2,8 +2,8 @@
 layout: post
 title: "IPFS P2P File Sharing System Whitepaper Overview"
 author: "Anne Ouyang"
-categories: blog
-tags: [distributed-systems, paper-reading]
+# categories: blog
+# tags: [distributed-systems, paper-reading]
 image: 
 ---
 

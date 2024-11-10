@@ -2,8 +2,8 @@
 layout: post
 title: "Provisions: Privacy-Preserving Proofs of Solvency for Bitcoin Exchanges Paper Overview"
 author: "Anne Ouyang"
-categories: blog
-tags: [cryptography, cryptocurrency, paper-reading]
+# categories: blog
+# tags: [cryptography, cryptocurrency, paper-reading]
 image: 
 ---
 
