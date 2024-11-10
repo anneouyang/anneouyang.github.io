@@ -14,6 +14,7 @@ title: Coursework
   - Lab Assistant - Fall 2021
   - Course Assistant - Spring 2022
   - Teaching Assistant - Fall 2022
+- **\*6.S986** - Large Language Models and Beyond
 - **\*6.867** Machine Learning
 - **\*6.338** Parallel Computing and Scientific Machine Learning
 - **\*6.824** - Distributed Computer Systems Engineering
